@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code and other IDEs
+.vscode/
+.idea/
+
+# MARS installation files
+Mars*.jar
+*.class
+
+# Temporary files
+*.log
+*.tmp
+*~
